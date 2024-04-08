@@ -53,7 +53,7 @@ seleniumを解凍したらEclipseプロジェクトにlibフォルダを作っ�
 プロジェクト名から右クリック＞プロパティー＞ライブラリからJARの追加で
 libにあるもjarを全部選択し使えるようにします。
 
-## ■サンプルソース
+## ■サンプルソース　ブログ村で作った記事を巡回してみましょう
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Paths;
