@@ -1,0 +1,87 @@
+フォルダー パスの一覧:  ボリューム Windows
+ボリューム シリアル番号は 00000156 2A70:34F7 です
+C:.
+│  .classpath
+│  .project
+│  build.xml
+│  email.txt
+│  list.bat
+│  list.txt
+│  password.txt
+│  url.txt
+│  
+├─.settings
+│      org.eclipse.core.resources.prefs
+│      
+├─bin
+│      Main.class
+│      
+├─exe
+│      chromedriver.exe
+│      
+├─lib
+│      auto-service-annotations-1.1.1.jar
+│      byte-buddy-1.14.12.jar
+│      checker-qual-3.42.0.jar
+│      commons-exec-1.3.jar
+│      error_prone_annotations-2.26.1.jar
+│      failsafe-3.3.2.jar
+│      failureaccess-1.0.2.jar
+│      guava-33.1.0-jre.jar
+│      j2objc-annotations-3.0.0.jar
+│      jsr305-3.0.2.jar
+│      listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+│      Main.class
+│      opentelemetry-api-1.36.0.jar
+│      opentelemetry-api-events-1.36.0-alpha.jar
+│      opentelemetry-context-1.36.0.jar
+│      opentelemetry-exporter-logging-1.36.0.jar
+│      opentelemetry-extension-incubator-1.36.0-alpha.jar
+│      opentelemetry-sdk-1.36.0.jar
+│      opentelemetry-sdk-common-1.36.0.jar
+│      opentelemetry-sdk-extension-autoconfigure-1.36.0.jar
+│      opentelemetry-sdk-extension-autoconfigure-spi-1.36.0.jar
+│      opentelemetry-sdk-logs-1.36.0.jar
+│      opentelemetry-sdk-metrics-1.36.0.jar
+│      opentelemetry-sdk-trace-1.36.0.jar
+│      opentelemetry-semconv-1.23.1-alpha.jar
+│      selenium-api-4.19.1-sources.jar
+│      selenium-api-4.19.1.jar
+│      selenium-chrome-driver-4.19.1-sources.jar
+│      selenium-chrome-driver-4.19.1.jar
+│      selenium-chromium-driver-4.19.1-sources.jar
+│      selenium-chromium-driver-4.19.1.jar
+│      selenium-devtools-v121-4.19.1-sources.jar
+│      selenium-devtools-v121-4.19.1.jar
+│      selenium-devtools-v122-4.19.1-sources.jar
+│      selenium-devtools-v122-4.19.1.jar
+│      selenium-devtools-v123-4.19.1-sources.jar
+│      selenium-devtools-v123-4.19.1.jar
+│      selenium-devtools-v85-4.19.1-sources.jar
+│      selenium-devtools-v85-4.19.1.jar
+│      selenium-edge-driver-4.19.1-sources.jar
+│      selenium-edge-driver-4.19.1.jar
+│      selenium-firefox-driver-4.19.1-sources.jar
+│      selenium-firefox-driver-4.19.1.jar
+│      selenium-http-4.19.1-sources.jar
+│      selenium-http-4.19.1.jar
+│      selenium-ie-driver-4.19.1-sources.jar
+│      selenium-ie-driver-4.19.1.jar
+│      selenium-java-4.19.1-sources.jar
+│      selenium-java-4.19.1.jar
+│      selenium-json-4.19.1-sources.jar
+│      selenium-json-4.19.1.jar
+│      selenium-manager-4.19.1-sources.jar
+│      selenium-manager-4.19.1.jar
+│      selenium-os-4.19.1-sources.jar
+│      selenium-os-4.19.1.jar
+│      selenium-remote-driver-4.19.1-sources.jar
+│      selenium-remote-driver-4.19.1.jar
+│      selenium-safari-driver-4.19.1-sources.jar
+│      selenium-safari-driver-4.19.1.jar
+│      selenium-support-4.19.1-sources.jar
+│      selenium-support-4.19.1.jar
+│      
+└─src
+        Main.java
+        

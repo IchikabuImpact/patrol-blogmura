@@ -1,0 +1,17 @@
+# 以下は除外例です。
+
+# ビルドファイル
+build.xml
+bin/
+
+# 設定ファイル
+.classpath
+.project
+.settings/
+
+# テストコード
+src/test/
+
+# その他
+*.tmp
+*~
