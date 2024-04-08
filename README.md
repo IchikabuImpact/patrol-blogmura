@@ -54,6 +54,7 @@ seleniumを解凍したらEclipseプロジェクトにlibフォルダを作っ�
 libにあるもjarを全部選択し使えるようにします。
 
 ## ■サンプルソース　ブログ村で作った記事を巡回してみましょう
+```
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -89,7 +90,7 @@ public class Main {
        loginButton.click();
    }
 }
-
+```
 ## ■サンプルソースの説明
 プロジェクト直下に3つのファイルを用意して読み込む想定になってます。
 email.txt　
